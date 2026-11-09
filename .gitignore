@@ -1,0 +1,17 @@
+# Game data is copyrighted. Never commit it.
+bne_data/
+disc/
+archive_org/
+*.iso
+*.bin
+*.cue
+*.mpq
+*.MPQ
+INSTALL.EXE
+TOME*
+# Build outputs
+app/
+Wargus.app/
+*.dmg
+diag.txt
+.DS_Store
